@@ -985,6 +985,9 @@ section {
   font-size: 13px;
 }
 
+.infos {
+  color: #0563;
+}
 
 .circles{
   position: absolute;

@@ -1,2 +1,0 @@
-# Kurmann.dev
-Website
